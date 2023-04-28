@@ -1,3 +1,0 @@
-let star = "*"
-
-console.log ('*')
